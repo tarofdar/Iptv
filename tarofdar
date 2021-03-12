@@ -234,7 +234,8 @@ https://cdn.smartstream.video/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201904/sangeet-bangla.jpg" group-title="Music",S Bangla
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
 
-http://209.126.120.153/hls/sangeetbangla.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Unddefined",Gaan Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
 
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/dhoom_music.jpg" group-title="Music",Dhoom Music
 http://edge.thunderbd.com:8082/57/index.m3u8?token=7efd94ae347b28e2cd0ffcee6db1694244989ae1-2bee475b9852fce713817f7b66617a3d-1615000453-1614989653&remote=103.149.142.6 
